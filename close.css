@@ -1,0 +1,33 @@
+.video{
+  background-color: rgb(161, 159, 159);
+  height: 180px;
+  width: 320px;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+button{
+  background-color: black;
+  color: white;
+  border: none;
+  height: 24px;
+  width: 25px;
+  border-radius: 12px;
+  position: absolute;
+  right: 5px;
+}
+.x-button{
+  position: absolute;
+  left: 20px;
+  top: -8px;
+}
+.time{
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  background-color: black;
+  color: white;
+  height: 18px;
+  width: 32px;
+  padding-left: 4px;
+}
